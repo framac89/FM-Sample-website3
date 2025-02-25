@@ -1,0 +1,36 @@
+.homep{
+    color: red;
+    background-color: lightsalmon;
+}
+
+.sfondoarticoli{
+
+    background-color: darkolivegreen;
+}
+
+.crearticolo{
+    color: brown;
+    background-color: darkcyan;
+}
+
+.sfondocard{
+
+    background-color: lightgreen;
+}
+
+.creat{
+    color:blueviolet;
+}
+
+.nomeaut{
+    color: purple;
+    text-decoration: none;
+}
+
+.nomeaut, 
+.nomeaut:visited, 
+.nomeaut:hover, 
+.nomeaut:active {
+    color: purple; 
+    text-decoration: none; 
+}
